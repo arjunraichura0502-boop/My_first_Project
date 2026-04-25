@@ -3,8 +3,8 @@ public class Intro
   {
     public static void main(String[] args){
         int a,b,Hello;
-        Scanner A =new scanner(System.in);
-Scanner B =new scanner(System.in);
+        Scanner A =new Scanner(System.in);
+Scanner B =new Scanner(System.in);
 System.out.println("Enter the first number =");
 a =A.nextInt();
 System.out.println("Enter the second number =");
