@@ -13,4 +13,3 @@ Hello=a+b;
       System.out.println("Hello World "+Hello);
     }
   }
-git config --global user.name MY_FIRST_PROJECT
